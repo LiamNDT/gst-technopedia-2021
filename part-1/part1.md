@@ -60,7 +60,7 @@ Sự khác biệt chính giữa Containers và VMs là ở cách tiếp cận ki
 
 VMs về cơ bản là một sự mô phỏng của một máy tính thực, thực thi các chương trình giống như một máy tính thực.
 
-VMs chạy *on top* của một máy vật lý sử dụng cái gọi là __*hypervisor*__. Một *hypervisor* chạy trên một host machine hoặc trên một __*bare-metal*__.
+VMs chạy trên một máy vật lý sử dụng cái gọi là __*hypervisor*__. Một *hypervisor* chạy trên một host machine hoặc trên một __*bare-metal*__.
 
 - Một __*hypervisor*__ là một phần của software, firmware hoặc hardware mà VMs chạy trên đó. Bản thân các *hypervisors* chạy trên một máy tính vật lý, được gọi là __*host machine*__. Host machine cung cấp các tài nguyên cho VMs bao gồm RAM và CPU. Các tài nguyên này được phân chia giữa các VMs và có thể được phân phối khi bạn cảm thấy phù hợp. Vì vậy, nếu một VM đang chạy một ứng dụng cần nhiều tài nguyên hơn thì bạn có thể phân bổ nhiều tài nguyên hơn cho VM đó so với các VM khác đang chạy trên cùng một *host machine*.
 
