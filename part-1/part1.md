@@ -4,7 +4,9 @@ Dù bạn là một Kỹ sư phần mềm hay một nhà Khoa học dữ liệu,
 
 Chuỗi bài viết về chủ đề __Docker__ của tôi nhằm mang lại cho người đọc mới bắt đầu tìm hiểu về docker có những cái nhìn tổng quan, cơ bản nhất xung quanh công nghệ đang là __hot trend__ này, từ đó họ có thể dễ dàng chuyển sang các chủ đề chuyên sâu hơn mà phù hợp với dự án của mỗi người.
 
-Trong phần 1,... [TO DO](https://todo.com). Công nghệ đến rồi công nghệ đi, nhưng cái nhìn sâu sắc là ở lại trong ta mãi mãi!
+Trong phần 1, mục đích của bài viết này nhằm mang lại cho bạn đọc các khái niệm cơ bản liên quan đến Docker, chúng sẽ là những thứ mà bạn nhất định phải biết nếu muốn đi sâu vào công nghệ này, ngoài những giải thích bằng lời, tôi cũng cung cấp các hình ảnh trực quan cùng với các ví dụ dễ hiểu.
+
+Công nghệ đến rồi công nghệ đi, nhưng cái nhìn sâu sắc là ở lại trong ta mãi mãi!
 
 ## Danh mục nội dung
 
