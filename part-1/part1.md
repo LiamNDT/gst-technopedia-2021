@@ -42,7 +42,7 @@ __*Tất cả những vấn đề nói trên dẫn đến việc developing, bui
 
 ### Cách tiệp cận sử dụng Docker
 
-Như vậy, chúng ta cần một cái gì đó có thể giúp chúng ta giải quyết vấn đề về tính tương thích giữa các thành phần này với OS chúng ta cũng cần một thứ gì đó có thể giúp chúng ta sửa đổi hoặc thay đổi các thành phần này mà không ảnh hưởng đến các thành phần khác trong hệ thống. Docker đã giải quyết tốt cho chúng ta.
+Như vậy, chúng ta cần một cái gì đó có thể giúp chúng ta giải quyết vấn đề về tính tương thích giữa các thành phần này với OS, chúng ta cũng cần một thứ gì đó có thể giúp chúng ta sửa đổi hoặc thay đổi các thành phần này mà không ảnh hưởng đến các thành phần khác trong hệ thống. Docker đã giải quyết tốt cho chúng ta.
 
 ![The services with containers](assets/example2.png)
 
